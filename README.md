@@ -80,7 +80,7 @@ kratos-trading-engine/
 
 1.  **Clone and Install:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/jyotishman-pathak/Kratos-exchange
     cd kratos-trading-engine
     npm install
     ```
